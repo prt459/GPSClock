@@ -7,6 +7,6 @@ NMEA strings are parsed for basic date and time information, which is wtritten t
 
 Additional algorithms are included for Gridsquare and lineal distance to a Point of Interest (GPS coords).  
 
-See http://vk3hn.wordpress.com for a writeup, video and pictures.
+See https://vk3hn.wordpress.com/2018/06/27/diy-arduino-gps-clock/ for a writeup, video and pictures.
 
-Paul Taylor VK3HN  June 2018.  
+Paul Taylor VK3HN.  June 2018.  
